@@ -11,8 +11,10 @@ The purpose of this analysis is to determine the district scores without the sus
 ![math scores by grade](https://github.com/lgconsult/school_analysis/blob/main/math_by_grade.png)
 ![reading scores by grade](https://github.com/lgconsult/school_analysis/blob/main/reading_by_grade.png)
 - The only spending range affected was 631$-645$, the range that Thomas HS is in. Average math score dropped by about .01%, average reading score went up by .01%, % passing math went down by .02%, and % passing reading went down by almost .08%. % overall passing decreased from 62.85% to 62.78%
-![school spending summary]([https://github.com/lgconsult/school_analysis/blob/main/school_spending_summary.png])
+
+![school spending summary](https://github.com/lgconsult/school_analysis/blob/main/school_spending_summary.png)
 - The changes did not affect the school size summary stats that were rounded to one decimal place.
+
 ![school size summary](https://github.com/lgconsult/school_analysis/blob/main/school_size_summary.png)
 - The changes did not affect the school type summary stats that were rounded to one decimal place.
 ## Summary
